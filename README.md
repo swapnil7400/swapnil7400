@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Swapnil Daberao
 - 👀 I’m interested in DevOps Technologies and coding solutions to automate boring task in day to day life.
 - 🌱 I’m currently learning Azure Cloud, Kubernetes, Kafka, Big Data, Spark & Kafka related technologies.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Ansible E2E automation, Performance Engineering E2E including deep analysis, with Shift-Left analogy.  
 - 📫 How to reach me ...
 
 <!---
